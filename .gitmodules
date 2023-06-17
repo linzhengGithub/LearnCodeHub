@@ -1,3 +1,6 @@
 [submodule "Nest/Nest-Learning"]
 	path = Nest/Nest-Learning
 	url = git@github.com:linzhengGithub/Nest-LearningCode.git
+[submodule "Vitest/Vitest-Learning"]
+	path = Vitest/Vitest-Learning
+	url = git@github.com:linzhengGithub/learn-web-test-vitest.git
