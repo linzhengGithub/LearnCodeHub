@@ -10,3 +10,6 @@
 [submodule "React/React-18-examples"]
 	path = React/React-18-examples
 	url = git@github.com:linzhengGithub/react-18-examples.git
+[submodule "React/React-toolbox"]
+	path = React/React-toolbox
+	url = git@github.com:linzhengGithub/learn-react-toolbox.git
